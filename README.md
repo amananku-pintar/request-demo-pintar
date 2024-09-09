@@ -5,7 +5,7 @@
 
 #NEW updated on 06/09/2024
 
-2.  [OPPURTUNITY & ENTERPRISE](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/enterprise_opputunity_contact_us.html)  
+2.  [OPPURTUNITY & ENTERPRISE](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/ENTERPRISE_OPPORTUNITY_CONTACT_US.html)  
   
 3.  [STUDY ABROAD](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/STUDY_ABORAD_CONTACT_US.html) 
   
