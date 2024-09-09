@@ -5,8 +5,8 @@
 
 #NEW updated on 06/09/2024
 
-2.  [OPPURTUNITY & ENTERPRISE](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/enterprise_opputunity_contact_us.html) PlaceHolder 
+2.  [OPPURTUNITY & ENTERPRISE](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/enterprise_opputunity_contact_us.html)  
   
-3.  [STUDY ABROAD](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/STUDY_ABORAD_CONTACT_US.html) PlaceHolder {{name}} {{email}} 
+3.  [STUDY ABROAD](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/STUDY_ABORAD_CONTACT_US.html) 
   
-4.  [DEGREES , SKILLS , PRAKERJA](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/DEGREES_SKILLS_PRAKERJA.html) PlaceHolder {{name}} 
+4.  [DEGREES , SKILLS , PRAKERJA](https://htmlpreview.github.io/?https://github.com/amananku-pintar/request-demo-pintar/blob/main/DEGREE_SKILLS_PRAKERJA_CONTACT_US.html) 
